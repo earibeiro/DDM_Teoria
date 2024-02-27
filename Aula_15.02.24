@@ -1,0 +1,31 @@
+
+
+AULA 15/02
+
+A. Estágiario      400,00        4h -6h        / está buscando conhecimento, precisa aprender!
+B. DEV júnior      1200,00       8h            /já tem um conhecimento da area, porém realiza atividades mais simples
+C. DEV             2500,00       10h           /
+D. DEV             2500,00       8h            /
+E. DEV pleno       6000,00       12h           /
+F. DEV pleno       6000,00       8h            /
+G. DEV pleno       6000,00       8h            /
+H. DEV pleno       12000,00      ?             /
+
+
+
+Qual melhor equipe (4 pessoas) para uma empresa?
+  Opção melhor equipe (dream team):
+    - 1 - H. DEV pleno   12000,00 /Gestor com entendimento técnico. Gerencia e auxilia na resolução de problemas.
+    - 2 - F. Dev pleno   6000,00  /Em conjunto com o outro DEV pleno, eles trabalharão com a parte técnica seguindo o planejamento do DEV H. 
+    - 1 - D. DEV         2500,00  /
+
+  Opção custo benefício (budget team):
+    - 1 - G. DEV pleno   6000,00  /Gestor com hábilidade interpessoal.
+    - 1 - D. DEV         2500,00  /Tem capacidade de interpretar as informações do DEV pleno (G) e possuí capacidade tecníca para dar prosseguimento ao projeto, bem como auxiliar os Devs júniors.
+    - 2 - B. DEV júnior  1200,00  /O pau para toda obra.
+
+O que esta pergunta tem haver com a nossa disciplina?
+  Ter noção das habilidades e caracteríscas que precisamos ter.
+
+autoavaliação consiste em:
+E(estágiario), J(junior), D(dev), P(pleno)

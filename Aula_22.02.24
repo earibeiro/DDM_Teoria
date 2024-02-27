@@ -1,0 +1,53 @@
+Aluno: Eduardo Albuquerque Ribeiro
+
+Diário de aula:
+- Nome do aplicativo com a devida descrição do escopo; 
+
+NOME DO APLICATIVO: 
+Descrição do Escopo:
+
+
+
+- Faça o material de estudo da aula (criação projeto, pasta lib, 
+  criação arquivo, método main, execução, variáveis, tipos de dados, 
+  interpolação, boas práticas, variáveis de inferência, 
+  constantes e valor final, entrada de dados, null safery, 
+  conversão de dados, métodos);
+
+
+- Exercícios do caso de uso do Professor;
+
+
+- Exercícios do seu projeto.
+
+
+
+01) - Defina um projeto para você! 
+PROJETO: Aplicação para estudo de disciplinas diversas.
+    a) Ramos de atividades: 
+        - Estudo de disciplinas diversas;
+        - Estudo de matérias específicas.
+
+    b) Escolhendo um ramo defina o escopo. Exemplo: 
+      Escopo Básico para aplicativo de estudos.
+        
+      Funcionalidades:
+
+       - Cadastro de disciplinas;
+        - Cadastro de notas;
+        - Cadastro de faltas;
+        - Cálculo de média;
+        - Cálculo de frequência;
+        - Exibição de estatísticas;
+        
+        Interface:
+        Interface amigável e intuitiva.
+        Tela de cadastro de idiomas.
+        Tela de cadastro de disciplina.
+        Tela de estudo da disciplina.
+        
+        Tecnologias:
+        Flutter
+        Dart
+
+	
